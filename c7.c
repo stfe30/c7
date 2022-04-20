@@ -1,3 +1,5 @@
+// TEST-File: Deadcode
+
 #include <stdio.h>
 
 void unused(){
