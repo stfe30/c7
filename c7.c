@@ -5,5 +5,6 @@ void unused(){
 }
 
 int main(){
+	printf("Irgendwo ist toter Code");
 	return 0;
 }
