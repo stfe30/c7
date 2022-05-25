@@ -1,4 +1,4 @@
-// TEST-File: Deadcode
+// TEST-File: Dead Code
 
 #include <stdio.h>
 
