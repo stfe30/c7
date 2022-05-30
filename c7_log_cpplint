@@ -1,0 +1,10 @@
+user@notebook:~/c7$ cpplint c7.c
+c7.c:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+c7.c:5:  Missing space before {  [whitespace/braces] [5]
+c7.c:6:  Tab found; better to use spaces  [whitespace/tab] [1]
+c7.c:9:  Missing space before {  [whitespace/braces] [5]
+c7.c:10:  Tab found; better to use spaces  [whitespace/tab] [1]
+c7.c:11:  Tab found; better to use spaces  [whitespace/tab] [1]
+Done processing c7.c
+Total errors found: 6
+
